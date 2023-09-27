@@ -7,7 +7,7 @@
  * - Source: https://github.com/lpkapil/ng-i18next-extended.git
  * - Issues: https://github.com/lpkapil/ng-i18next-extended.git/issues
  *
- * License: MIT - https://github.com/lpkapil/ng-i18next-extended.git/blob/master/LICENSE
+ * License: MIT - https://github.com/lpkapil/ng-i18next-extended/blob/main/LICENSE
  *
 */
 (function (global, factory) {

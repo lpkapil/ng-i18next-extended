@@ -15,4 +15,4 @@ For changelog file please see CHANGELOG.md
 
 # License #
 
-[MIT License](https://github.com/lpkapil/ng-i18next-extended/blob/master/LICENSE)
+[MIT License](https://github.com/lpkapil/ng-i18next-extended/blob/main/LICENSE)
